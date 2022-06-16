@@ -1,0 +1,127 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cajita1{
+    background-color: aqua;
+    height: 300px;
+}
+
+.cajita2{
+     background-color: violet;
+     height: 300px;
+}
+
+.cajita3{
+    background-color: rgb(47, 141, 141);
+     height: 300px;
+}
+
+.cajita4{
+    background-color: rgb(38, 97, 20);
+     height: 300px;
+}
+
+.cajita5{
+    background-color: rgb(54, 44, 54);
+     height: 300px;
+}
+
+.cajita6{
+    background-color: rgb(131, 177, 47);
+    height: 300px;
+}
+
+.cajita7{
+    background-color: rgb(197, 38, 38);
+     height: 300px;
+}
+
+.cajita8{
+    background-color: rgb(65, 80, 67);
+     height: 300px;
+}
+
+.cajita9{
+    background-color: rgb(6, 17, 114);
+     height: 300px;
+}
+
+.cajita10{
+    background-color: rgb(182, 179, 38);
+     height: 300px;
+}
+
+.cajita11{
+    background-color: violet;
+     height: 300px;
+}
+
+.cajita12{
+    background-color: rgb(126, 39, 39);
+     height: 300px;
+}
+
+.cajita13{
+    background-color: rgb(8, 5, 44);
+     height: 300px;
+}
+
+.cajita14{
+    background-color: rgb(9, 95, 91);
+     height: 300px;
+}
+
+.cajita15{
+    background-color: rgb(36, 116, 66);
+     height: 300px;
+}
+
+.cajita16{
+    background-color: rgb(32, 68, 31);
+     height: 300px;
+}
+
+.cajita17{
+    background-color: rgb(122, 177, 77);
+     height: 300px;
+}
+
+.cajita18{
+    background-color: rgb(14, 88, 131);
+     height: 300px;
+}
+
+.cajita19{
+    background-color: rgb(199, 154, 7);
+     height: 300px;
+}
+
+.cajita20{
+    background-color: rgb(212, 62, 2);
+     height: 300px;
+}
+
+.cajita22{
+    background-color: rgb(43, 1, 44);
+     height: 300px;
+}
+
+.cajita23{
+    background-color: rgb(10, 77, 40);
+     height: 300px;
+}
+
+.cajita24{
+    background-color: rgb(70, 12, 12);
+     height: 300px;
+}
+
+.cajita25{
+    background-color: rgb(79, 179, 54);
+     height: 300px;
+}
